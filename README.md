@@ -13,6 +13,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohnadSaadeh&show_icons=true&count_private=true&hide_border=true&title_color=8f00ff&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Ricardo" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohnadSaadeh&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+
+
  
 <!-- ![](https://www.svgrepo.com/show/452091/python.svg)  -->
   
