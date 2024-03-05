@@ -1,7 +1,9 @@
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Mohannad Saadeh</h1>
 <h3 align="left">Fullstack Developer from Palestine.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohnadSaadeh&label=Profile%20views&color=0e75b6&style=flat" alt="MohnadSaadeh"  /> </p>
+<div align="center" style="margin-bottom:200px"
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=4000&pause=1000&background=1ECCFF00&center=true&vCenter=true&random=false&width=450&height=60&lines=Welcome+to+my+github+profile+;I+am+a+Full-Stack+Developer" alt="Typing SVG" /></a>
+</div>
 
 - 🔭 I’m currently working on **Flask**
 
@@ -11,13 +13,19 @@
 
 - 📫 How to reach me **m.saade.bus@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<br>
+
+## Language and Tools
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohnadSaadeh&show_icons=true&count_private=true&hide_border=true&title_color=8f00ff&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Ricardo" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohnadSaadeh&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-<img align="center" alt="Coding" width="730px" height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="left" style="margin-bottom:200px">
+<img width=35% align="center" src="https://github-readme-stats.vercel.app/api?username=MohnadSaadeh&theme=holi&show_icons=true" />
+<img width=34% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohnadSaadeh&layout=compact&theme=holi" />
+<img align="center" alt="Coding" width="700px" height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
+<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 
  
@@ -43,13 +51,21 @@
   
   </p>
 
-<h3 id="hi">Im Interested In </h3>
+
+<br>
+
+## Im Interested In
+
 <p>
   <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="androidh" width="40" height="40"/> </a>
- <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/303175/android-logo.svg" alt="androidh" width="40" height="40"/> </a>
- <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/376318/flutter.svg" alt="androidh" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/303175/android-logo.svg" alt="androidh" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo+text/horizontal/default.svg" alt="flutter" width="80" height="40"/> </a>
   </a>
 </p>
+
+
+</p>
+
 
 <h3 align="left"> </h3>
 
@@ -62,20 +78,34 @@
   </p>
 </details>
 
-<h3 align="left">Connect with me:</h3>
+
+## Academic Background:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.uninter.com/)
+**Software Engineering Undergraduate** \
+[**UNINTER**](https://www.uninter.com/)  • In progress\
+Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
+`Project Management` `Software Development` `Software Security` `Software Quality`
+
+
+
+[<img align="left" height="100px" width="100px" alt="dojo" src="https://d.newsweek.com/en/full/1533900/newsweek-coding-dojo-logo.png?w=560&f=e751153072cf804b0c144c88cf16c747"/>](https://www.codingdojo.com/)
+**Full Stack Developer** \
+[**Coding Dojo**](https://www.codingdojo.com/) • In progress \
+Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
+`Bulma` `MongoDB` `ElectronJS`
+
+
+<br>
+
+## Contact with me:
+<div>
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/m.saadeh90" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mohannad.saadeh/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="saurav-chamoli" height="30" width="30" /></a>
-
 </p>
+</div>
 
 
-
-
-
-<!---
-MohnadSaadeh/MohnadSaadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
