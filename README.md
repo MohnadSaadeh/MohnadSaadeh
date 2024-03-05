@@ -25,7 +25,7 @@ https://www.freepik.com/icon/python_3098090#fromView=search&page=1&position=35&u
   
   <a href="" target="_blank"> <img src="![](https://www.svgrepo.com/show/452091/python.svg" alt="c" width="40" height="40"/> </a>
 
-<a  width="40" height="40" > (![github](https://www.svgrepo.com/show/452091/python.svg)) </a>
+<a  width="40" height="40" > ![github](https://www.svgrepo.com/show/452091/python.svg) </a>
 
 
   
