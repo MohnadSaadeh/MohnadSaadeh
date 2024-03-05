@@ -24,17 +24,15 @@
 <img align="center" alt="Coding" width="700px" height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 <br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<br>
 
-
-
- 
-<!-- ![](https://www.svgrepo.com/show/452091/python.svg)  -->
   
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="60" height="60"/> </a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask" width="120" height="40"/> </a>
   <a href="https://materializecss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" width="60" height="60"/> </a>
   <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="60" height="60"/> </a>
+
+<img src="https://www.keycdn.com/img/support/full-stack-development.png" min-width="400px" max-width="400px" width="400px" align="right" alt="full stack">
   
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="60" height="60"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="60" height="60"/> </a>
