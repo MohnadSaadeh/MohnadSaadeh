@@ -29,7 +29,7 @@
   
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="60" height="60"/> </a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask" width="120" height="40"/> </a>
-  <a href="https://materializecss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" width="60" height="60"/> </a>
+  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" width="60" height="60"/> </a>
   <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="60" height="60"/> </a>
 
 <img src="https://www.keycdn.com/img/support/full-stack-development.png" min-width="400px" max-width="400px" width="400px" align="right" alt="full stack">
@@ -40,8 +40,8 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
  
   </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="60" height="60"/> </a>
-  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="github" width="60" height="60"/> </a>
+  </a> <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="60" height="60"/> </a>
+  </a> <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="github" width="60" height="60"/> </a>
 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="60" height="60"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="60" height="60"/> </a>
