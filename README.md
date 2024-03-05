@@ -38,10 +38,9 @@
   <a hr
   </p>
 
-<h3 id="spotify-playing-">Spotify Playing 🎧</h3>
+<h3 id="spotify-playing-">im interisting in </h3>
 <p>
-  <a href="">
-   <img src="" />
+  <a href="https://www.oracle.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303175/android-logo.svg" alt="androidh" width="40" height="40"/> </a>
   </a>
 </p>
 
