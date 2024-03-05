@@ -28,7 +28,7 @@ https://www.freepik.com/icon/python_3098090#fromView=search&page=1&position=35&u
  ![width="40" height="40"](https://www.svgrepo.com/show/452091/python.svg)  
 
   
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="![vb](https://www.svgrepo.com/show/452091/python.svg)" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
