@@ -23,7 +23,7 @@ https://www.freepik.com/icon/python_3098090#fromView=search&page=1&position=35&u
 
 
   
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://www.svgrepo.com/show/354238/python.svg)" alt="c" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
 
 
