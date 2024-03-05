@@ -19,7 +19,7 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="60" height="60"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="Flask" width="40" height="40"/> </a>
   <a href="https://materializecss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src=" https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="30" height="30"/> </a>
+  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="30" height="30"/> </a>
   
  
   
