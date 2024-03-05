@@ -35,10 +35,10 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="60" height="60"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="60" height="60"/> </a>
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://hotsechu.files.wordpress.com/2021/03/mysqlworkbench_2.png" alt="workbench" width="60" height="60"/> </a>
-  <a hr
+  
   </p>
 
-<h3 id="spotify-playing-">Im Interested In </h3>
+<h3 id="hi">Im Interested In </h3>
 <p>
   <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="androidh" width="40" height="40"/> </a>
  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/303175/android-logo.svg" alt="androidh" width="40" height="40"/> </a>
@@ -53,8 +53,7 @@
 <details>
   <summary>Wakatime Stats</summary>
   <p align="center"> 
-    <img src="https://wakatime.com/share/@7177670b-1a0d-474b-bdbf-41bdfa46e386/2370f337-07d0-406f-bd59-3ccec17d4f79.svg" height="500" alt="Coding Time" /> 
-    <img src="https://wakatime.com/share/@7177670b-1a0d-474b-bdbf-41bdfa46e386/3771eb71-3f96-4905-a324-c175b75ec368.svg" height="500" alt="Coding Languages" />
+   
   </p>
 </details>
 
