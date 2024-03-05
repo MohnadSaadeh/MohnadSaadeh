@@ -17,6 +17,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohnadSaadeh&show_icons=true&count_private=true&hide_border=true&title_color=8f00ff&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Ricardo" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohnadSaadeh&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+<img align="center" alt="Coding" width="730px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
  
