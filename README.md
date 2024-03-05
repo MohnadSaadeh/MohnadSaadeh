@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on **Flask**
 
-- 🌱 I’m currently learning <a href="" target="_blank"> <img src=" https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="30" height="30"/> </a>
+- 🌱 I’m currently learning
+-  <a href="" target="_blank"> <img src=" https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="30" height="30"/> </a>
 
 - 💬 Ask me about **Python,Flask,HTML,CSS,JS.**
 
