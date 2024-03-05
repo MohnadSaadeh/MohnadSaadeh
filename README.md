@@ -1,7 +1,7 @@
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Mohannad Saadeh</h1>
 <h3 align="left">Fullstack Developer from Palestine.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravchamoli17&label=Profile%20views&color=0e75b6&style=flat" alt="sauravchamoli17" height="600" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohnadSaadeh&label=Profile%20views&color=0e75b6&style=flat" alt="MohnadSaadeh"  /> </p>
 
 - 🔭 I’m currently working on **Flask**
 
@@ -17,18 +17,16 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohnadSaadeh&show_icons=true&count_private=true&hide_border=true&title_color=8f00ff&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Ricardo" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohnadSaadeh&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-<img align="center" alt="Coding" width="730px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="730px" height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
  
 <!-- ![](https://www.svgrepo.com/show/452091/python.svg)  -->
   
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="60" height="60"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="Flask" width="60" height="60"/> </a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask" width="120" height="40"/> </a>
   <a href="https://materializecss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" width="60" height="60"/> </a>
   <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="60" height="60"/> </a>
-  
- 
   
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="60" height="60"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="60" height="60"/> </a>
@@ -66,9 +64,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
+<a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/m.saadeh90" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mohannad.saadeh/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="saurav-chamoli" height="30" width="30" /></a>
+
 </p>
 
 
