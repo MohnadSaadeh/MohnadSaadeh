@@ -79,19 +79,21 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.uninter.com/)
-**Software Engineering Undergraduate** \
-[**UNINTER**](https://www.uninter.com/)  • In progress\
-Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
-`Project Management` `Software Development` `Software Security` `Software Quality`
-
-
-
 [<img align="left" height="100px" width="100px" alt="dojo" src="https://d.newsweek.com/en/full/1533900/newsweek-coding-dojo-logo.png?w=560&f=e751153072cf804b0c144c88cf16c747"/>](https://www.codingdojo.com/)
 **Full Stack Developer** \
 [**Coding Dojo**](https://www.codingdojo.com/) • In progress \
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
+Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` 
 `Bulma` `MongoDB` `ElectronJS`
+
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.alquds.edu/wp-content/uploads/2017/07/aqulogo.png"/>](https://www.uninter.com/)
+**Computer Sience** \
+[**Al-Quds University**](https://www.alquds.edu/en/)  • Completed\
+Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
+`Project Management` `Software Development` `Software Quality`
+
+
 
 
 <br>
