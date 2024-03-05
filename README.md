@@ -25,7 +25,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="Flask" width="40" height="40"/> </a> 
   
-  <a href="https://materializecss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373702/jinja.svg)" alt="jinja" width="40" height="40"/> </a>
+  <a href="https://materializecss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" width="40" height="40"/> </a>
   
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
