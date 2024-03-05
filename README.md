@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flask**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning <a href="" target="_blank"> <img src=" https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="30" height="30"/> </a>
 
 - 💬 Ask me about **Python,Flask,HTML,CSS,JS.**
 
@@ -19,6 +19,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="60" height="60"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="Flask" width="40" height="40"/> </a>
   <a href="https://materializecss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" width="40" height="40"/> </a>
+   
+  
+ 
   
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="40" height="40"/> </a>
