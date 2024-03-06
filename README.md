@@ -1,13 +1,15 @@
-<h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Mohannad Saadeh</h1>
-<h3 align="left">Fullstack Developer from Palestine.</h3>
+<h1 align="left" style="background-color: #1ECCFF00;">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> </h1>
+<h3 align="left" color ="#1ECCFF00;" ></h3>
 
 <div align="center" style="margin-bottom:200px"
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=4000&pause=1000&background=1ECCFF00&center=true&vCenter=true&random=false&width=450&height=60&lines=Welcome+to+my+github+profile+;I+am+a+Full-Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=1000&pause=1500&background=1ECCFF00&center=true&vCenter=true&random=false&width=450&height=60&lines=Welcome+to+my+github+profile+;Iam+Mohannad+Saadeh;a+Full-Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
-- 🔭 I’m currently working on **Flask**
+- 🔭 I’m currently working on  **Flask** <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask" width="60" height="20"/> </a>
 
-- 🌱 I’m currently learning **Django**
+
+- 🌱 I’m currently learning **Django**  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="20" height="20"/> </a>
+
 
 - 💬 Ask me about **Python,Flask,HTML,CSS,JS.**
 
@@ -82,20 +84,29 @@
 [<img align="left" height="100px" width="100px" alt="dojo" src="https://d.newsweek.com/en/full/1533900/newsweek-coding-dojo-logo.png?w=560&f=e751153072cf804b0c144c88cf16c747"/>](https://www.codingdojo.com/)
 **Full Stack Developer** \
 [**Coding Dojo**](https://www.codingdojo.com/) • In progress \
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` 
-`Bulma` `MongoDB` `ElectronJS`
+Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `Algorithms`
+        `NodeJs` `Mysql` `MERN` 
+
+<br>
+<br>
+
+[<img align="left" height="50px" width="115px" alt="Warpnet" src="https://axsos.academy/wp-content/uploads/2021/11/AXSOS-Academy-Logo-01.png"/>](https://axsos.academy/)
+**Student** \
+[**AXSOS Academy**](https://axsos.academy/)  • Completed\
+Skills: `Python Fundamentals` `Flask` `Code Quality` `WEB FUNDAMENTALS `
+        `Project Management` 
+
 
 <br>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.alquds.edu/wp-content/uploads/2017/07/aqulogo.png"/>](https://www.uninter.com/)
 **Computer Sience** \
 [**Al-Quds University**](https://www.alquds.edu/en/)  • Completed\
-Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
-`Project Management` `Software Development` `Software Quality`
+Skills: `Data Structures` `Algorithms` `Software Architecture` `Professional Ethics`
+        `Software Development` `Software Quality` 
 
 
-
-
+<br>
 <br>
 
 ## Contact with me:
