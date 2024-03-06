@@ -21,40 +21,49 @@
 
 
 <div align="left" style="margin-bottom:200px">
-<img width=35% align="center" src="https://github-readme-stats.vercel.app/api?username=MohnadSaadeh&theme=holi&show_icons=true" />
+<img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=MohnadSaadeh&theme=holi&show_icons=true" />
 <img width=34% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohnadSaadeh&layout=compact&theme=holi" />
-<img align="center" alt="Coding" width="700px" height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 </div>
 <br>
 <br>
 
-  
+  #### Back-End :
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="60" height="60"/> </a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask" width="120" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" width="60" height="60"/> </a>
-  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="60" height="60"/> </a>
+  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="50" height="50"/> </a>
 
-<img src="https://www.keycdn.com/img/support/full-stack-development.png" min-width="400px" max-width="400px" width="400px" align="right" alt="full stack">
-  
+
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="full stack">
+
+
+
+  #### Front-End:
+
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="60" height="60"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="60" height="60"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="60" height="60"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="50" height="50"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
- 
-  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-  </a> <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="60" height="60"/> </a>
-  </a> <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="github" width="60" height="60"/> </a>
+
+ #### Data Base:
 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="60" height="60"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="60" height="60"/> </a>
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://hotsechu.files.wordpress.com/2021/03/mysqlworkbench_2.png" alt="workbench" width="60" height="60"/> </a>
+
+   #### Tools:
+  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
+  </a> <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="60" height="60"/> </a>
+  </a> <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="github" width="60" height="60"/> </a>
   
   </p>
 
 
 <br>
 
-## Im Interested In
+## Im Interested In :
 
 <p>
   <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="androidh" width="40" height="40"/> </a>
@@ -64,17 +73,10 @@
 </p>
 
 
-</p>
-
-
-<h3 align="left"> </h3>
-
-
 <h3 align="left">Coding Activity</h3>
 <details>
   <summary>Wakatime Stats</summary>
   <p align="center"> 
-   
   </p>
 </details>
 
