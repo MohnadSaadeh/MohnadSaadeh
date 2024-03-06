@@ -114,7 +114,7 @@ Skills: `Data Structures` `Algorithms` `Software Architecture` `Professional Eth
 ## Contact with me:
 <div>
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="linkedin" height="40" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/m.saadeh90" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mohannad.saadeh/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="saurav-chamoli" height="30" width="30" /></a>
