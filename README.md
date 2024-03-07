@@ -93,7 +93,7 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
 <br>
 
 [<img align="left" height="50px" width="115px" alt="Warpnet" src="https://axsos.academy/wp-content/uploads/2021/11/AXSOS-Academy-Logo-01.png"/>](https://axsos.academy/)
-**Student** \
+**Programming** \
 [**AXSOS Academy**](https://axsos.academy/)  • Completed\
 Skills: `Python Fundamentals` `Flask` `Code Quality` `WEB FUNDAMENTALS `
         `Project Management` 
