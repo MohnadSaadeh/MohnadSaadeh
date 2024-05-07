@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on  **Django**  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="20" height="20"/> </a>
 
 
-- 🌱 I’m currently learning **Django**  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="20" height="20"/> </a>
+- 🌱 I’m currently learning **ALGORITHMS**  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="20" height="20"/> </a>
 
 
 - 💬 Ask me about **Python,Flask,HTML,CSS,JS.**
