@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=1000&pause=1500&background=1ECCFF00&center=true&vCenter=true&random=false&width=450&height=60&lines=Welcome+to+my+github+profile+;Iam+Mohannad+Saadeh;a+Full-Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
-- 🔭 I’m currently working on  **Flask** <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask" width="60" height="20"/> </a>
+- 🔭 I’m currently working on  **Django**  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="20" height="20"/> </a>
 
 
 - 🌱 I’m currently learning **Django**  <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="20" height="20"/> </a>
