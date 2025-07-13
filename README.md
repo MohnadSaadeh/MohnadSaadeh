@@ -101,7 +101,7 @@ Skills: `Python Fundamentals` `Flask` `Code Quality` `WEB FUNDAMENTALS `
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.alquds.edu/wp-content/uploads/2017/07/aqulogo.png"/>](https://www.uninter.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://axsos.academy/wp-content/uploads/2021/02/axsos-academy-logo-300x122.png"/>](https://www.uninter.com/)
 **Computer Sience** \ 
 [**Al-Quds University**](https://www.alquds.edu/en/)  • Completed\
 Skills: `Data Structures` `Algorithms` `Software Architecture` `Professional Ethics`
