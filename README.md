@@ -93,7 +93,7 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
 <br>
 
 
-(https://axsos.academy/)
+
 **Programming** \
 [**AXSOS Academy**](https://axsos.academy/)  • Completed\
 Skills: `Python Fundamentals` `Flask` `Code Quality` `WEB FUNDAMENTALS `
