@@ -92,7 +92,7 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
 <br>
 <br>
 
-[<img align="left" height="50px" width="115px" alt="Warpnet" src="https://axsos.academy/wp-content/uploads/2025/01/png-axsos-academy-logo.png"/>](https://axsos.academy/)
+[<img align="left" height="50px" width="115px" alt="Warpnet" src="https://axsos.academy/wp-content/uploads/2021/02/axsos-academy-logo-300x122.png"/>](https://axsos.academy/)
 **Programming** \
 [**AXSOS Academy**](https://axsos.academy/)  • Completed\
 Skills: `Python Fundamentals` `Flask` `Code Quality` `WEB FUNDAMENTALS `
